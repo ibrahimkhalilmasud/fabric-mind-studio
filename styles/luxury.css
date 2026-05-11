@@ -1,0 +1,12 @@
+.glass-panel {
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.05));
+  backdrop-filter: blur(12px);
+  box-shadow: 0 18px 80px rgba(15, 9, 35, 0.45);
+}
+
+.gold-gradient {
+  background: linear-gradient(110deg, #fbe4ac 0%, #ffd67f 45%, #f2a7ff 100%);
+  -webkit-background-clip: text;
+  color: transparent;
+}
